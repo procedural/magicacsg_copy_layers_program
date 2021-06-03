@@ -4,7 +4,7 @@
 
 Установка:
 
-* Скачайте архив: [magicacsg_copy_layers_program-main.zip](https://github.com/procedural/magicacsg_copy_layers_program/archive/refs/heads/main.zip)
+* Скачайте архив: [magicacsg_copy_layers_program-main.zip](https://github.com/procedural/magicacsg_copy_layers_program/archive/refs/heads/main.zip) (27 MB)
 * Откройте архив, скопируйте папку `magicacsg_copy_layers_program-main` на рабочий стол.
 * Запустите `mcsg_copy_layers.exe`
 
@@ -24,7 +24,7 @@
 
 Install:
 
-* Download archive: [magicacsg_copy_layers_program-main.zip](https://github.com/procedural/magicacsg_copy_layers_program/archive/refs/heads/main.zip)
+* Download archive: [magicacsg_copy_layers_program-main.zip](https://github.com/procedural/magicacsg_copy_layers_program/archive/refs/heads/main.zip) (27 MB)
 * Open the archive, copy `magicacsg_copy_layers_program-main` to your desktop folder.
 * Run `mcsg_copy_layers_english.exe`
 
