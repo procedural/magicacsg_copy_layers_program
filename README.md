@@ -11,7 +11,7 @@
 Требования:
 
 * Windows 10
-* MagicaCSG версии 0.0.0 ([MagicaCSG.0.0.0.zip](https://github.com/ephtracy/ephtracy.github.io/releases/download/c0.0.0/MagicaCSG.0.0.0.zip)) или 0.0.1 ([MagicaCSG-0.0.1.zip](https://github.com/ephtracy/ephtracy.github.io/releases/download/c0.0.0/MagicaCSG-0.0.1.zip))
+* MagicaCSG версии 0.0.0 ([MagicaCSG.0.0.0.zip](https://github.com/ephtracy/ephtracy.github.io/releases/download/c0.0.0/MagicaCSG.0.0.0.zip)) или выше
 
 Дополнительные ссылки:
 
@@ -31,7 +31,7 @@ Install:
 Requirements:
 
 * Windows 10
-* MagicaCSG version 0.0.0 ([MagicaCSG.0.0.0.zip](https://github.com/ephtracy/ephtracy.github.io/releases/download/c0.0.0/MagicaCSG.0.0.0.zip)) or 0.0.1 ([MagicaCSG-0.0.1.zip](https://github.com/ephtracy/ephtracy.github.io/releases/download/c0.0.0/MagicaCSG-0.0.1.zip))
+* MagicaCSG version 0.0.0 ([MagicaCSG.0.0.0.zip](https://github.com/ephtracy/ephtracy.github.io/releases/download/c0.0.0/MagicaCSG.0.0.0.zip)) or higher
 
 Additional links:
 
